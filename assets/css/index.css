@@ -1,0 +1,141 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+}
+.header-section{
+    width: 100%;
+    height: 100vh;
+    background-color: #000000;
+}
+.body-section{
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+    background-color: #000000;
+}
+.device{
+    width: 770px;
+    height: 1336px;
+    margin: auto;
+    background-image: url(../img/device.png);
+    background-repeat: no-repeat;
+    background-size: 770px 1336px;
+}
+.screen{
+    width: 770px;
+    height: 1336px;
+    display: block;
+    box-sizing: border-box;
+    padding-top: 80px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+.header-screen{
+    width: 650px;
+    height: 200px;
+    margin: auto;
+    background-image: url(../img/header-screen.jpg);
+    background-repeat: no-repeat;
+    background-size: 650px 200px;
+}
+.body-screen{
+    list-style: none;
+    margin: 0px;
+    padding-left: 75px;
+    padding-right: 25px;
+}
+.line-divider{
+    margin-top: 26px;
+    margin-bottom: 0px;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #1e1e1e;
+}
+.item-divider{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    height: 1px;
+    background-color: #1e1e1e;
+    width: 68%;
+}
+.item-one{
+    position: relative;
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.item-one .img{
+    width: 100%;
+    height: 102px;
+    background-image: url(../img/item-one.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 102px;
+}
+.item-two{
+    position: relative;
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.item-two .img{
+    width: 100%;
+    height: 102px;
+    background-image: url(../img/item-two.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 102px;
+}
+.item-three{
+    position: relative;
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.item-three .img{
+    width: 100%;
+    height: 102px;
+    background-image: url(../img/item-three.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 102px;
+}
+.item-four{
+    position: relative;
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.item-four .img{
+    width: 100%;
+    height: 102px;
+    background-image: url(../img/item-four.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 102px;
+}
+.item-five{
+    position: relative;
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.item-five .img{
+    width: 100%;
+    height: 102px;
+    background-image: url(../img/item-five.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 102px;
+}
+.item-six{
+    position: relative;
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.item-six .img{
+    width: 100%;
+    height: 102px;
+    background-image: url(../img/item-six.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 102px;
+}
